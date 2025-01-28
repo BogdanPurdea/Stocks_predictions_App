@@ -13,4 +13,4 @@ This project was created as part of [Scrimba's AI Engineer Path](https://scrimba
 
 The app is deployed using Cloudflare and utilizes Cloudflare Workers to handle API requests to the Polygon API and OpenAI API.
 
-You can check out the deployed app here: [Deployed App](stocks-predictions-app.pages.dev).
+You can check out the deployed app here: [Deployed App](https://stocks-predictions-app.pages.dev/).
